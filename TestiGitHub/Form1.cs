@@ -5,6 +5,8 @@ namespace TestiGitHub
         public Form1()
         {
             InitializeComponent();
+
+            // komentārs
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
