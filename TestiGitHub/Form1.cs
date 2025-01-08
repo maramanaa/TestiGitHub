@@ -6,7 +6,7 @@ namespace TestiGitHub
         {
             InitializeComponent();
 
-            // komentārs
+            // komentārs no GitHub internetā
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
