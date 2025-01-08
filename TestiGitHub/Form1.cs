@@ -5,6 +5,8 @@ namespace TestiGitHub
         public Form1()
         {
             InitializeComponent();
+
+            // komentārs
         }
     }
 }
